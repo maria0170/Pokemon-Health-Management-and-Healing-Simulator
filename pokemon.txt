@@ -1,0 +1,8 @@
+Pikachu 5/75 (No poison)
+Pikachu 75/75 (No poison)
+Pikachu 0/75 (Poisoned)
+Charizard 110/200 (Poisoned)
+Charizard 5/200 (No poison)
+Snorlax 0/700 (Poisoned)
+Girafarig 110/110 (Poisoned)
+Eevee 80/80 (Poisoned)
